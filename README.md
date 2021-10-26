@@ -1,7 +1,4 @@
 ### Olá, mundo! 🙋🏻‍♀️ Sou a Daiane, mas pode me chamar de Anne! 👧
-- 📌Rio de Janeiro
-- 📚 Estudante de Sistemas para Internet
-- 👩🏻‍💻 Focada em Front-end e UX/UI Design
 
 <div align="center">
   <a href="https://github.com/daianeperiard">
