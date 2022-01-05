@@ -1,4 +1,4 @@
-### Olá, mundo! 🙋🏻‍♀️ Sou a Daiane, mas pode me chamar de Anne! 👧
+### Welcome everyone, 🙋🏻‍♀️ I'm Daiane! 👧
 
 <div align="center">
   <a href="https://github.com/daianeperiard">
